@@ -23,7 +23,7 @@ if(validate()){
 
 
 function goHome($code){
-    header("Location: ../index.html?code=" . $code);
+    header("Location: ../index.php?code=" . $code);
 }
 
 function validate(){
