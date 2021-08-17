@@ -26,15 +26,15 @@
         <button class="btn" id="open-discussion">Open for discussion</button>
     </div>
     <div class="zuri-links">
-        <a href="http://">
+        <a href="https://zuri.team/" target="_blank">
             <img src="images/zuri-logo-full.svg" alt="Zuri">
         </a>
 
-        <a href="http://">
+        <a href="https://hng.tech/" target="_blank">
             <img src="images/hng.png" alt="HNG Internship" width="300">
         </a>
         
-        <a href="">
+        <a href="http://ingressive.org/" target="_blank">
             <img src="images/ingressive.png" alt="ingressive for good" width="300">
         </a>
     </div>
